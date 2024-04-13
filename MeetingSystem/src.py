@@ -15,7 +15,6 @@
         1.5 Title
     2. Set reminder - TODO
     3. Notification - TODO
-
 """
 
 import collections
